@@ -1,0 +1,13 @@
+sampleltext commit 2
+
+
+git clone clonename
+
+
+git pull
+
+#check status  -- git status
+
+git add .
+git commit -m "message"
+git push
